@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/YoDiGutY1/EasyGoLib/utils"
+	"github.com/YoDiGutY1/EasyGoLib/tree/main/utils"
 )
 
 type UDPServer struct {
