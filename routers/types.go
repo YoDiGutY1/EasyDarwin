@@ -1,6 +1,6 @@
 package routers
 
-import "github.com/YoDiGutY1/EasyGoLib/utils"
+import "github.com/YoDiGutY1/EasyGoLib/tree/main/utils"
 
 var BuildVersion = "v8.1"
 var BuildDateTime = ""
