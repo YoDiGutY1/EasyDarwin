@@ -12,7 +12,7 @@ import (
 	"github.com/gin-contrib/pprof"
 	"github.com/gin-contrib/static"
 	"github.com/gin-gonic/gin"
-	"github.com/YoDiGutY1/EasyGoLib/utils"
+	"github.com/YoDiGutY1/EasyGoLib/tree/main/utils"
 	"github.com/penggy/cors"
 	"github.com/YoDiGutY1/sessions"
 	validator "gopkg.in/go-playground/validator.v8"
